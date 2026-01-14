@@ -59,8 +59,7 @@ I am a developer based in **Vapi, Gujarat**, passionate about building real-time
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Coding Streak
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag2580&show_icons=true&theme=tokyonight&count_private=true" alt="Anurag's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag2580&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anurag2580&theme=tokyonight" alt="Anurag's Streak" />
 </p>
