@@ -11,7 +11,7 @@ I am a developer based in **Vapi, Gujarat**, passionate about building real-time
 - 🌱 I’m constantly learning **Deep Learning & System Design**.
 - 💼 I have experience intern'ing in **Data Analytics** (IBM/Codec Technologies).
 - ⚡ Fun fact: I'm also an entrepreneur in the **Optical** industry! 👓
-- 📫 Reach me at: **[Insert Your Email Here]**
+- 📫 Reach me at: **anuragrai2580@gmail.com**
 
 ---
 
